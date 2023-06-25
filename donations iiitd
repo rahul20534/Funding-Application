@@ -1,0 +1,50 @@
+How to setup page layout: https://www.youtube.com/watch?v=9g_3Zsoj17I&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=56
+ - how to setup header, footer
+ - how to remove header, footer from certain pages
+ - does not include styling them
+
+
+You are connected with iiitd as a:
+student
+alumni
+parent
+industry professional
+faculty
+employee
+others
+
+Student:
+Course, Roll No, 
+
+ALumni:
+Year of graduation
+
+Parent:
+Ward name, course, graduation year
+
+Industry professional:
+- company name
+
+Faculty:
+- employee id
+
+employee:
+- employee id
+
+others:
+- please specify here (remarks - 100 chars)
+
+
+- make pan card, complete address compulsory for amount > 50000
+- remove complete address for pan field
+- change current city to address
+- make photo and form side by side
+
+Extra column for razorPay in DB:
+- orderId, paymentId, transaction Date
+
+
+- add role directly in form instead of dropdown
+- add menu inside form page also
+- also send purpose of form (alumni legacy) after submitting form
+- make donations to home page

@@ -1,0 +1,13 @@
+.background {
+  background-color: #f3f4f5;
+}
+
+.main {
+  background-color: #c6c6c7;
+}
+
+.linebreak {
+  width: "100px";
+  background-color: "#7c4dff";
+  height: "2px";
+}
